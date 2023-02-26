@@ -25,8 +25,9 @@
 
   
 ##### 🎨 SNS 🎨
+	<a href="(https://www.notion.so/Jinspace-f80acb8af52a4246a267dd075ebfd3f0)">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-
+	</a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinnspace&show_icons=true&theme=radical) 
