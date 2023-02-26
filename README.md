@@ -1,12 +1,12 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jinnspace%20Github!&fontSize=90&" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jinnspace%20&fontSize=90&" />	
 </div>
 
 <div align="center">
 
 ### :books: Tech Stacks :books:
   
-##### :zap: Platforms & Languages :zap:
+##### ✨  Platforms & Languages ✨ 
   
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -25,7 +25,7 @@
 
   
 ##### 🎨 SNS 🎨
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>(https://www.notion.so/Jinspace-f80acb8af52a4246a267dd075ebfd3f0)
 
 
 
