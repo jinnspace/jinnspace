@@ -1,6 +1,4 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jinnspace!%20&fontSize=90&" />	
-</div>
+<h2 align="center">Welcome to Jinnspace!</h2>
 
 <div align="center">
 
@@ -32,8 +30,8 @@
 
 
 <h2 align="center">📌 GitHub Status & language</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HYBEN09" height="100" width="49%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinnspace" height="100" width="49%" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYBEN09&layout=compact" height="100"  width="49%"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnspace&layout=compact" height="100"  width="49%"/> 
 </div>    
 
