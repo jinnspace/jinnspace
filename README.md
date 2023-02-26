@@ -2,8 +2,6 @@
 
 ## :wave: Welcome to JinnSpace!
 
-  ![컴퓨터](https://user-images.githubusercontent.com/115220828/210351066-ef16107a-55a1-47a0-bf03-0980dc99ae1b.gif)
-
 ### :zap: My Stacks :zap:
   
   
