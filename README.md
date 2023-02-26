@@ -2,7 +2,7 @@
 
 ## :wave: Welcome to JinnSpace!
 
-### :zap: Tech Stacks :zap:
+### :books: Tech Stacks :books:
   
 #### :zap: Platforms & Languages :zap:
   
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=JQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   
-
+#### 🛠️ Tools 🛠️
 
 
 
