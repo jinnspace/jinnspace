@@ -4,7 +4,7 @@
 
 ### :zap: Tech Stacks :zap:
   
-#### :zap: Tech Stacks :zap:
+#### :zap: Platforms & Languages :zap:
   
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
