@@ -28,10 +28,10 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
 
-<div align="center">
+
 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinnspace&show_icons=true&theme=radical) 
 
 
 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinnspace&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 </div>
