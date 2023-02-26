@@ -25,7 +25,7 @@
 
   
 ##### 🎨 SNS 🎨
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>(https://www.notion.so/Jinspace-f80acb8af52a4246a267dd075ebfd3f0)
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
 
 
